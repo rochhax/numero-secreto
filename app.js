@@ -66,7 +66,7 @@ function reiniciarJogo() {
 }
 
 
-
+Teste com restore
 
 
 
